@@ -119,15 +119,15 @@ nav ul li a:hover, a.active{
     background-color:  #E33741;
    
 }
-.plus-minus-btn{ 
+/* .plus-minus-btn{ 
  float: left;
     
  align-items :center;
 
- padding: 20px;
+ padding: 20px; */
 
    
-}
+/* } */
 .amount{
     display: flex;
     justify-content: space-between;
